@@ -1,0 +1,49 @@
+Types of applications - 1 tier , 2 tier, 3 tier, n-tier
+client side and server side
+
+client technologies
+html, css, js
+react, angular
+
+serverside
+
+apache tomcat
+
+
+
+JEE(Java Enterprise edition)
+
+
+java OOPS
+
+we can represent real time entity in real time object
+
+procedural
+which is monolothic, entire system can be represnted in one monolothic system
+
+Inheritance(
+agrregation,
+composition,
+specialization, - inheritance
+generalization,
+reliazation, - putting 
+association,
+Instanciation
+)
+
+abstract , interfaces
+
+abstract - we define some methods, and one method will be abstract(partial abstraction), allows only essential parts
+
+interface-all the methods are abstract - non essential parts
+
+if i have a interface account, account can have create account and close account, i can create a class SBAccount implements account
+
+interfaces, abstract, class
+
+abstraction ie abstract and interaces leads polymorphism and some time may not, but mostly may lead to polymorphism
+
+function/method overloading and function/method overriding
+
+
+
