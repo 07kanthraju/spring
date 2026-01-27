@@ -43,6 +43,11 @@ interfaces, abstract, class
 
 abstraction ie abstract and interaces leads polymorphism and some time may not, but mostly may lead to polymorphism
 
+uses or advantages of java
+
+primitive types
+wraper classes
+
 function/method overloading and function/method overriding
 
 
