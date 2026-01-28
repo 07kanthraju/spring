@@ -1,0 +1,41 @@
+OOPS
+Exception - situation triggered due to run time error
+
+Run Time Error-
+is a error encountered due to Non Availabality of resource
+
+Logical Error - due to wrong logics
+
+class
+constructors
+types - instance constructors
+parameter constructor and default constructor
+
+static methods - without creating an object we can call the method
+
+this keyword - instance of current class
+mirroring
+super() keyword - which cause the base class as constructor
+
+getters and setters
+-getters are accessors
+-setters are mutators
+
+property methods getteres/setters act as a channel to access the private data members of a class
+
+
+code review tool- cruisable
+
+Naming conventions - 
+class/interfaces/abstract classes - Title case
+class and variables- use nouns
+methods -Camael case
+getEmployee()
+variable
+camel case
+
+
+lambok - used to generate boilerplate or repetative code
+
+toString
+
