@@ -1,0 +1,19 @@
+getters and settres revision
+
+JDK architecture.
+
+arrays and strings todays agenda
+
+
+string
+
+
+tokenization
+
+differnt types of operations 
+
+Arrays
+
+1D, 2D, Jagged Arrays
+
+
