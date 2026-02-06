@@ -1,0 +1,18 @@
+Has table,
+
+set
+
+map
+
+
+
+
+comparator vs comparable interface used for java  - for sort the arrays
+- to train the collection for sort
+
+streams -(IO stresms, java- 8  streams, in interview ask which one they are asking actually) 
+sequence of objects that supports various methods 
+- we are talking about IO stream- input and output streams, reading and writing from files
+file- is collection of data in a particular entity
+
+IO stream- used for read and write into the files
