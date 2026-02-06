@@ -16,3 +16,6 @@ sequence of objects that supports various methods
 file- is collection of data in a particular entity
 
 IO stream- used for read and write into the files
+
+
+collections
